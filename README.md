@@ -1,2 +1,6 @@
 # cc
-Assignments for CC
+Assignments for CC 
+
+Part 1: Front-End Automation 
+
+Part2 : API Testing
